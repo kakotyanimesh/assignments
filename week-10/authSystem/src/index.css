@@ -1,0 +1,9 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: authFont;
+    src: url(../src/assets/fonts/authFont.ttf);
+}
